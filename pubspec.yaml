@@ -1,0 +1,4 @@
+name: bomberman
+description: Dart Bomberman is a remake of the original Bomberman game for NES written in Dart for educational purposes.
+dependencies:
+  browser: any
